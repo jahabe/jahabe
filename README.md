@@ -6,7 +6,6 @@
 ## 🔭 I’m currently working on
 - AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
 - MS laptop Keyset skin research developmenet
-- Expanding my skills in **data analysis** on my path toward becoming a **machine learning engineer or product manager**
 
 ## ⚡ Fun facts
 - I enjoy designing, creative drawing, painting, photography, and traveling ✈️  
