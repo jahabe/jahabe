@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 👋 Hi, I’m **Jane Choi**  
-🎓 Computer Science & Software Engineering major at **UW Bothell**
+🎓 Computer Science & Software Engineering major at **UW**
 
 ## 🔭 I’m currently working on
 - AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
@@ -10,7 +10,6 @@
 ## ⚡ Fun facts
 - I enjoy designing, creative drawing, painting, photography, and traveling ✈️  
 - I’m always curious to learn new things, meet new people, and explore what I haven’t tried yet  
-- Proud **cat lover** 🐾 (my portfolio website even has three cats on the sidebar 🐱🐱🐱)
 
 ## 🎶 My Top 3 Songs  
 <p align="left">
