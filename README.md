@@ -7,24 +7,6 @@
 - AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
 - MS laptop Keyset skin research developmenet
 
-## ⚡ Fun facts
-- I enjoy designing, creative drawing, painting, photography, and traveling ✈️  
-- I’m always curious to learn new things, meet new people, and explore what I haven’t tried yet  
-
-## 🎶 My Top 3 Songs  
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=vHvOYQ0hbBA">
-    <img src="./song1.svg" alt="Rose – Stay a Little Longer" width="200"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=i2IK99Kli4E&list=RDi2IK99Kli4E&start_radio=1">
-    <img src="./song2.svg" alt="YdBB – Isn’t That Good?" width="200"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=Zbo7UY8dxh8&list=RDZbo7UY8dxh8&start_radio=1">
-    <img src="./song3.svg" alt="Song Sohee – Not a Dream" width="200"/>
-  </a>
-</p>
-
-
 💡 Let’s connect and share progress so we can grow together!
 
 ---
