@@ -1,13 +1,11 @@
 ## 💫 About Me
 
 👋 Hi, I’m **Jane Choi**  
-🎓 Computer Science & Software Engineering major at **UW**
+🎓 Computer Science & Software Engineering major at **University of Washington**
 
 ## 🔭 I’m currently working on
 - AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
-- MSFT Surface laptop Keyset skin POC research developmenet
-
-💡 Let’s connect and share progress so we can grow together!
+- MSFT Surface laptop Keyset skin POC research development
 
 ---
 
