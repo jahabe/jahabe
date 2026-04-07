@@ -7,7 +7,7 @@
 
 ## 🔭 I’m currently working on
 - AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
-- MSFT Surface laptop Keyset skin POC research development
+- MSFT-sponsored Surface laptop Keyset skin POC development research
 
 ---
 
