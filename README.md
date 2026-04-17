@@ -7,7 +7,8 @@
 
 ## 🔭 I’m currently working on
 - AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
-- MSFT-sponsored Surface laptop Keyset skin POC development research
+- **MSFT-sponsored** Surface laptop Keyset skin POC development research
+- Contributing to the Korean localization of HuggingFace's [**LeRobot**](https://github.com/huggingface/lerobot) framework (progress tracked via [dashboard](https://lerobot-korean-watch.lovable.app/))
 
 ---
 
