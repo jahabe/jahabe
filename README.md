@@ -10,6 +10,7 @@
 - **MSFT-sponsored** Surface laptop Keyset skin POC development research
 - Contributing to the Korean localization of HuggingFace's [**LeRobot**](https://github.com/huggingface/lerobot) framework (progress tracked via [dashboard](https://lerobot-korean-watch.lovable.app/))
 
+- <img src="./images/deeptracer.jpg" alt="DeepTracer" width="50"/> <img src="./images/microsoft-centered-logo-png-transparent.png" alt="Microsoft" width="50"/> <img src="./images/Lerobot_logo.png" alt="LeRobot" width="50"/> 
 ---
 
 ## 🌐 Socials  
