@@ -6,7 +6,7 @@
 <img src="./University_of_Washington_logo.png" alt="University of Washington" width="150"/>
 
 ## 🔭 I’m currently working on
-- AI/ML research with the **DeepTracer Generative AI team** (protein structure prediction)  
+- AI/ML research with the [**DeepTracer Generative AI team**](https://sites.google.com/uw.edu/dais-uw/home?authuser=0) (protein structure prediction)  
 - **MSFT-sponsored** Surface laptop Keyset skin POC development research
 - Contributing to the Korean localization of HuggingFace's [**LeRobot**](https://github.com/huggingface/lerobot) framework (progress tracked via [dashboard](https://lerobot-korean-watch.lovable.app/))
 
